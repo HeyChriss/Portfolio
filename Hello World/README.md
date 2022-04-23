@@ -6,9 +6,8 @@ This software shows the user the following words: Hello World
 
 The purpose of creatig this programm is to teach students how to show software to users.A "Hello, world!" program is generally a computer program that outputs or displays the message "Hello, world!". This program is very simple to write in many programming languages, and is often used to illustrate a language's basic syntax. "Hello, world!" programs are often the first a student learns to write in a given language, and they can also be used as a sanity test to ensure computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://www.youtube.com/watch?v=5OBeD3aUtZI
 
 # Development Environment
 
