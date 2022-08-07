@@ -1,23 +1,16 @@
-# Overview
+# Introduction 
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Hi everyone. I am Christian and I am currently studying a major in Software Engineering at Brigham Young University Idaho. 
 
-{Provide a description of your software}
+This is my second year in college and I have been working in projects from the school and personal projects in order 
+to expand my knowledge in programming. This is a portfolio I have created with the purpose to show some of my code, some of the programs were created 
+as a group and some of them were personal projects. 
 
-{Describe your purpose for creating this software.}
+About me: 
+I am Christian and I am 23 years old. I was born in Guatemala and I am currently studying a major in Software Engineering at Brigham Young University Idaho. 
+I love learning new things and ever since I was a kid I wanted to learn how computers and software worked. I was able to study programming when I turned 15 years old I 
+did my first Hello World program. I am passionate in building projects and keep learning new programming languages. I have been working in some personal projects 
+and I have been leading some other group projects with my friends. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
-# Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+My dream is to work in a company where I could learn and help other people make their lives easier through software. Software has been part of my life since growing up
+and I want to be part of building that community for others in the world. 
